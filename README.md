@@ -43,7 +43,7 @@ torchvision: For image transformations.
 
 ```
 radiology_app/
-├── app.py                   # Main Streamlit application with CSS styling
+├── app.py or PROJECT.py          # Main Streamlit application with CSS styling
 ├── models/
 │   ├── xrayctscan       #checks whether image is xrayctscan or not           
 │   ├── class_2          # Body‑part classifier
@@ -144,7 +144,7 @@ disease_model_paths = {
 Ensure the models are properly trained and saved in appropriate format.
 
 Step 4: Run the Streamlit App
-Create the app.py file: Save the code you’ve provided (from the original code you shared) into a file named app.py.
+Create the app.py or PROJECT.py file: Save the code you’ve provided (from the original code you shared) into a file named app.py or PROJECT.py .
 
 Run the Streamlit App: Navigate to the directory where the app.py file is located and run:
 
