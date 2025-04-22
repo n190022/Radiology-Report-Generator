@@ -18,7 +18,7 @@ A **Streamlit** web application that:
 radiology_app/
 ├── app.py                   # Main Streamlit application with CSS styling
 ├── models/
-│   ├── xrayctscan                 
+│   ├── xrayctscan       #checks whether image is xrayctscan or not           
 │   ├── class_2          # Body‑part classifier
 │   ├── bone_10          # Bone fracture classifier
 │   ├── model_16         # Brain tumor classifier
